@@ -2,6 +2,8 @@
 
 A convenience image for building [docker swarm](https://github.com/docker/swarm/).
 
+This builds a `swarm` executable on the debian platform. It will work with ubuntu as well. The executable will not work on OSX, but building it will.
+
 ## Usage
 `./build.sh`
 
